@@ -1,4 +1,4 @@
-# Triggo.ai_Teste_T-cnico
+# Triggo.ai_Teste_Técnico
 Teste Técnico - Programa Trainee triggo.ai de Excelência em Engenharia de Dados e DataOps 2025
 # Análise de Vendas e Clientes - Dashboard Interativo
 
@@ -35,8 +35,5 @@ plotly
 dash
 scikit-learn
 geopy
-Clone o repositório:
-git clone https://github.com/seu_usuario/seu_repositorio.git
-
 
 Contribuições são sempre bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
